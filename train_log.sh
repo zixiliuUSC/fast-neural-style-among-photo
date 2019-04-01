@@ -1,0 +1,1 @@
+echo The training of fast neural style transfer | tee out.txt; date| tee -a out.txt; cd /home/lab-li.haoyu/zixi/test/fast-neural-style-master_ | tee -a out.txt; th train.lua | tee -a out.txt
